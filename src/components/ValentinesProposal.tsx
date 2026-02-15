@@ -132,10 +132,10 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine?
+              Will you be my husband forever and ever and ever?
             </h2>
             <Image
-              src="/sad_hamster.png"
+              src="/duck.gif"
               alt="Sad Hamster"
               width={200}
               height={200}
@@ -145,7 +145,7 @@ export default function ValentinesProposal() {
                 className="px-6 py-2 text-lg font-semibold text-white bg-gradient-to-r from-pink-500 to-rose-500 rounded-xl hover:from-pink-600 hover:to-rose-600 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                 onClick={handleYesClick}
               >
-                Yes, I will! 🥰
+                Yes, I will! 
               </button>
               <button
                 className="px-6 py-2 text-lg font-semibold text-white bg-gradient-to-r from-gray-500 to-gray-600 rounded-xl hover:from-gray-600 hover:to-gray-700 transform hover:scale-95 transition-all duration-300 shadow-lg"
@@ -175,10 +175,10 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
+            mwehehe i love you more than anything!! happy valentines day my love
             <p className="text-sm mt-4">For more information, write me!!! 💌</p>
             <Image
-              src="/hamster_jumping.gif"
+              src="/repo.gif"
               alt="Hamster Feliz"
               width={200}
               height={200}
