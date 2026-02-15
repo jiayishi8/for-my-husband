@@ -135,7 +135,7 @@ export default function ValentinesProposal() {
               Will you be my husband forever and ever and ever?
             </h2>
             <Image
-              src="/duck.gif"
+              src="/sad_hamster.png"
               alt="Sad Hamster"
               width={200}
               height={200}
