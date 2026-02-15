@@ -91,7 +91,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Congratulations! You have completed the game.
+            YAYYYY YOU DID IT!!! good job good job!!
           </motion.h2>
         )}
         {step === 1 && (
