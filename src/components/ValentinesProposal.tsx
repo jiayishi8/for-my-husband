@@ -175,8 +175,8 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            mwehehe i love you more than anything!! happy valentines day my love
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+            mwehehe i love you more than anything!! happy valentines day my love!!
+            <p className="text-sm mt-4"> 💌</p>
             <Image
               src="/repo.gif"
               alt="Hamster Feliz"
